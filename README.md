@@ -1,5 +1,6 @@
 # 8x8 Display with Attiny85 microcontroller
-![proteus sch](https://github.com/vladiordachescu/8x8-display-attiny85/assets/73362552/fde339e0-1949-4f67-b5ed-ba1f48f3ebdb)
+![proteus sch](https://github.com/vladiordachescu/8x8-display-attiny85/assets/73362552/f0aa32f7-7956-4d37-9e46-4a9b70ae31aa)
+
 
 ![8x8display](https://github.com/vladiordachescu/8x8-display-attiny85/assets/73362552/ba7fa559-881a-47db-85b0-8dad7abbad00)
 
